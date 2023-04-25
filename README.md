@@ -1,4 +1,4 @@
-# [Django Material Dashboard](https://appseed.us/product/material-dashboard/django/)
+# [Django Simple Charts](https://github.com/app-generator/django-simple-charts)
 
 Open-source **Django** project crafted on top of **[Material Dashboard](https://appseed.us/product/material-dashboard/django/)**, an open-source `Boostrap 5` design from [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Material Material` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
@@ -227,4 +227,4 @@ This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bo
 <br />
 
 ---
-[Django Material Dashboard](https://appseed.us/product/material-dashboard/django/) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+[Django Simple Charts](https://github.com/app-generator/django-simple-charts) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
